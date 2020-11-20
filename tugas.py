@@ -1,3 +1,4 @@
+data = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
 def in_number(x):
     if x < 10:
         return word[x]
